@@ -1,5 +1,5 @@
 package org.iesalandalus.programacion.trasladables.modelo.dominio;
-/*
+
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotEquals;
@@ -7,9 +7,9 @@ import static org.junit.Assert.assertNull;
 
 import org.iesalandalus.programacion.trasladable.modelo.dominio.Punto;
 import org.junit.Test;
-*/
+
 public class PuntoTest {
-/*
+
 	@Test
 	public void constructorTest() {
 		Punto punto = new Punto(0, 0);
@@ -67,5 +67,5 @@ public class PuntoTest {
 		assertNotEquals(p1, p3);
 		assertNotEquals(p1, p4);
 	}
-*/
+
 }

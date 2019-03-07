@@ -1,5 +1,5 @@
 package org.iesalandalus.programacion.trasladables.modelo.dominio;
-/*
+
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotEquals;
@@ -8,9 +8,9 @@ import static org.junit.Assert.assertNull;
 import org.iesalandalus.programacion.trasladable.modelo.dominio.Linea;
 import org.iesalandalus.programacion.trasladable.modelo.dominio.Punto;
 import org.junit.Test;
-*/
+
 public class LineaTest {
-/*	
+	
 	private static final Punto P1 = new Punto(0, 0);
 	private static final Punto P2 = new Punto(0, 10);
 	private static final Punto P3 = new Punto(10, 0);
@@ -78,5 +78,5 @@ public class LineaTest {
 		assertNotEquals(l1, l3);
 		assertNotEquals(l1, l4);
 	}
-*/
+
 }
